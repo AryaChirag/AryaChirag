@@ -44,7 +44,7 @@ I am excited to bring my unique blend of business acumen, technical skills, and 
 &nbsp; <a href="mailto:erchirag.arya@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://twitter.com/i_chirag_arya" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/littlearyan16/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
-&nbsp; <a href="https://public.tableau.com/app/profile/chirag.arya4385" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="35" /></a>
+&nbsp; <a href="https://public.tableau.com/app/profile/chirag.arya4385" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="33" /></a>
 </p>
 
 <!-- Aaahhhhhh !! My contribution grapgh is getting eaten... 😶 -->
