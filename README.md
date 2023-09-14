@@ -6,9 +6,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👋 &nbsp; I am an MBA graduate in International Business with a strong foundation in Information Technology. 
+- 👋 &nbsp; An MBA graduate in International Business with a strong foundation in Information Technology. 
 - 🚀 &nbsp; I recently completed an intensive Data Analytics Bootcamp at Le Wagon, where I honed my skills in Python, SQL, Excel, and BI tools like PowerBI, Looker Studio, and Tableau. I'm passionate about leveraging data to drive insights and business growth.
-- 👯 &nbsp; I am eager to contribute my expertise to the dynamic field of Data Analytics. I'm actively seeking opportunities that allow me to harness the power of data for in-depth analysis, compelling visualization, and, ultimately, to drive business development through data-driven strategies.
+- 👯 &nbsp; Eager to contribute my expertise to the dynamic field of Data Analytics. I'm actively seeking opportunities that allow me to harness the power of data for in-depth analysis, compelling visualization, and, ultimately, to drive business development through data-driven strategies.
 <!--
 - 💼 &nbsp; Developer by profession.
 -->
