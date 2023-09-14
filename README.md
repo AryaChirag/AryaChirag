@@ -9,7 +9,9 @@
 - 👋 &nbsp; I am an MBA graduate in International Business with a strong foundation in Information Technology. 
 - 🚀 &nbsp; I recently completed an intensive Data Analytics Bootcamp at Le Wagon, where I honed my skills in Python, SQL, Excel, and BI tools like PowerBI, Looker Studio, and Tableau. I'm passionate about leveraging data to drive insights and business growth.
 - 👯 &nbsp; I am eager to contribute my expertise to the dynamic field of Data Analytics. I'm actively seeking opportunities that allow me to harness the power of data for in-depth analysis, compelling visualization, and, ultimately, to drive business development through data-driven strategies.
+<!--
 - 💼 &nbsp; Developer by profession.
+-->
 - 🌱 &nbsp; In my previous role as a Business Operations Manager, I not only fulfilled my responsibilities but also achieved significant milestones. I spearheaded business expansion efforts, successfully establishing operations in three new cities from the ground up. This included the challenging task of launching and managing operations in Berlin. 
 - 🔭 &nbsp; During my time at Le Wagon's boot camp, I undertook a data-driven research project titled "Empowering Growth: Leveraging Python Machine Learning to Introduce Three Exciting Products to an Online Cosmetics Store." This project reflects my dedication to applying cutting-edge data analysis techniques to real-world business challenges.
 - ☕ &nbsp; `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
