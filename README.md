@@ -20,7 +20,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js | node.js
 - 🛢 &nbsp; MySQL | Google BigQuery | Excel
 - 🔧 &nbsp; GoogleColab | Visual Studio code | Git | DBT | Power BI | Looker Studio | Tableau |  Octoparse
-- 🖥 &nbsp; Adobe Photoshop
+- 🖥 &nbsp; Adobe Photoshop | Final Cut Pro
 
 
 I am excited to bring my unique blend of business acumen, technical skills, and passion for data to a dynamic team. Let's connect and explore how my expertise can contribute to your organization's success.
