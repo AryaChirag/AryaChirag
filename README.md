@@ -22,7 +22,7 @@
 - 🔧 &nbsp; GoogleColab | Visual Studio code | Git | DBT | Power BI | Looker Studio | Tableau |  Octoparse
 - 🖥 &nbsp; Adobe Photoshop
 
-- I am excited to bring my unique blend of business acumen, technical skills, and passion for data to a dynamic team. Let's connect and explore how my expertise can contribute to your organization's success.
+I am excited to bring my unique blend of business acumen, technical skills, and passion for data to a dynamic team. Let's connect and explore how my expertise can contribute to your organization's success.
 
 <br>
 
