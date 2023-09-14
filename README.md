@@ -39,7 +39,7 @@ I am excited to bring my unique blend of business acumen, technical skills, and 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
 &nbsp; <a href="https://www.linkedin.com/in/chiragarya/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:erchirag.arya@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://twitter.com/i_chirag_arya" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
