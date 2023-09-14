@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Chirag. <img src="https://github.com/AryaChirag/AryaChirag/blob/main/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/AryaChirag/AryaChirag/blob/main/workspace.gif" width="340"/>
+<img align="right" alt="GIF" src="https://github.com/AryaChirag/AryaChirag/blob/main/workspace.gif" width="330"/>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
