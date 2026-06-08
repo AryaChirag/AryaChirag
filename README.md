@@ -1,25 +1,32 @@
-<h2> Hey there! I'm Chirag <img src="https://github.com/AryaChirag/AryaChirag/blob/main/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Chirag 👋</h2>
 
-<img align="right" alt="GIF" src="https://github.com/AryaChirag/AryaChirag/blob/main/workspace.gif" width="320"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AryaChirag/AryaChirag/blob/main/workspace.gif" width="320"/>
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+## 👨🏻‍💻 About Me
 
-- 👋 &nbsp; An MBA graduate in International Business with a strong foundation in Information Technology. 
-- 🚀 &nbsp; I recently completed an intensive Data Analytics Bootcamp at Le Wagon, where I honed my skills in Python, SQL, Excel, and BI tools like PowerBI, Looker Studio, and Tableau. I'm passionate about leveraging data to drive insights and business growth.
-- 👯 &nbsp; Eager to contribute my expertise to the dynamic field of Data Analytics. I'm actively seeking opportunities that allow me to harness the power of data for in-depth analysis, compelling visualization, and, ultimately, to drive business development through data-driven strategies.
-- 🌱 &nbsp; In my previous role as a Business Operations Manager, I not only fulfilled my responsibilities but also achieved significant milestones. I spearheaded business expansion efforts, successfully establishing operations in three new cities from the ground up. This included the challenging task of launching and managing operations in Berlin. 
-- 🔭 &nbsp; During my time at Le Wagon's boot camp, I undertook a data-driven research project titled "Empowering Growth: Leveraging Python Machine Learning to Introduce Three Exciting Products to an Online Cosmetics Store." This project reflects my dedication to applying cutting-edge data analysis techniques to real-world business challenges.
+- MBA graduate in International Business with a strong foundation in IT
+- Data Analytics Bootcamp graduate (Le Wagon)  
+- Skilled in SQL, Python, Excel, Power BI, Tableau, Looker Studio
+- Passionate about transforming data into actionable business insights
+- Former Account Operations Manager for Eurowings with experience scaling operations across multiple cities including Berlin
+- Interested in data-driven decision making and business intelligence
 - ☕ &nbsp; `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 
-<h3>🛠 Tech Stack</h3>
+---
 
-- 💻 &nbsp; Python | SQL
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js | node.js
-- 🛢 &nbsp; MySQL | Google BigQuery | Excel
-- 🔧 &nbsp; GoogleColab | Visual Studio code | Git | DBT | Power BI | Looker Studio | Tableau |  Octoparse
-- 🖥 &nbsp; Adobe Photoshop | Final Cut Pro
+## 🛠 Tech Stack
 
+- 💻 Python | SQL  
+- 📊 Power BI | Tableau | Looker Studio | Excel  
+- 🌐 HTML | CSS | JavaScript | React.js  
+- 🛢 MySQL | Google BigQuery  
+- 🔧 Git | VS Code | DBT | Google Colab  
+- 🎨 Photoshop | Final Cut Pro  
+
+---
+
+## 🤝 Connect with Me
 
 I am excited to bring my unique blend of business acumen, technical skills, and passion for data to a dynamic team. Let's connect and explore how my expertise can contribute to your organization's success.
 
@@ -34,23 +41,36 @@ I am excited to bring my unique blend of business acumen, technical skills, and 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
-&nbsp; <a href="https://www.linkedin.com/in/chiragarya/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:erchirag.arya@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://twitter.com/i_chirag_arya" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/littlearyan16/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
-&nbsp; <a href="https://public.tableau.com/app/profile/chirag.arya4385" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="40" /></a>  
+<p align="center">
+  <a href="https://www.linkedin.com/in/chiragarya/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+  </a>
 
+  <a href="mailto:erchirag.arya@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
+  </a>
+
+  <a href="https://twitter.com/i_chirag_arya">
+    <img src="https://img.icons8.com/color/48/twitter.png" width="40"/>
+  </a>
+
+  <a href="https://public.tableau.com/app/profile/chirag.arya4385">
+    <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
+  </a>
 </p>
 
-<!-- Aaahhhhhh !! My contribution grapgh is getting eaten... 😶 -->
+
+<!-- Aaahhhhhh !! My contribution graph is getting eaten... 😶 -->
 <!-- <p> 
  <img src="https://github.com/AryaChirag/AryaChirag/blob/main/github-contribution-grid-snake.gif" />
 </p> -->
 
+---
+
 <!-- addded on 3rd May 2021 -->
 
-#### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{AryaChirag}/count.svg)
+## 📊 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AryaChirag&label=Profile%20Views&color=0e75b6&style=flat)
 
  <!-- - 💼 &nbsp; Developer by profession. -->
