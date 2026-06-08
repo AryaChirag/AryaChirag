@@ -26,8 +26,6 @@
 
 ---
 
-## 🤝 Connect with Me
-
 I am excited to bring my unique blend of business acumen, technical skills, and passion for data to a dynamic team. Let's connect and explore how my expertise can contribute to your organization's success.
 
 <!-- ![Chirag's Github Stats](https://github-readme-stats.vercel.app/api?username=AryaChirag&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
@@ -39,7 +37,7 @@ I am excited to bring my unique blend of business acumen, technical skills, and 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaChirag&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/AryaChirag/github-readme-stats)-->
 
-<h3> 🤝🏻 Connect with Me </h3>
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chiragarya/">
