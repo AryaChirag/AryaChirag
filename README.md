@@ -1,62 +1,120 @@
-<h2> Hey there! I'm Chirag 👋</h2>
+<h1 align="center">Hi, I'm Chirag 👋</h1>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AryaChirag/AryaChirag/blob/main/workspace.gif" width="320"/>
+<p align="center">
+Operations & Data Analyst | SQL | Python | Tableau | Power BI
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AryaChirag&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
 
 ## 👨🏻‍💻 About Me
 
-- MBA graduate in International Business with a strong foundation in IT
-- Data Analytics Bootcamp graduate (Le Wagon)  
-- Skilled in SQL, Python, Excel, Power BI, Tableau, Looker Studio
-- Passionate about transforming data into actionable business insights
-- Former Account Operations Manager for Eurowings with experience scaling operations across multiple cities including Berlin
-- Interested in data-driven decision making and business intelligence
-- ☕ &nbsp; `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
+<img align="right"
+     src="https://raw.githubusercontent.com/AryaChirag/AryaChirag/main/workspace.gif"
+     width="220"/>
+
+- MBA graduate in International Business
+- Former Account Operations Manager for Eurowings
+- Data Analytics Bootcamp graduate (Le Wagon)
+- Skilled in SQL, Python, Excel, Tableau, Power BI, Looker Studio
+- Passionate about data-driven business decisions
+- Currently seeking Data Analyst opportunities
+
+☕ `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 
 ---
 
 ## 🛠 Tech Stack
 
-- 💻 Python | SQL  
-- 📊 Power BI | Tableau | Looker Studio | Excel  
-- 🌐 HTML | CSS | JavaScript | React.js  
-- 🛢 MySQL | Google BigQuery  
-- 🔧 Git | VS Code | DBT | Google Colab  
-- 🎨 Photoshop | Final Cut Pro  
+**Data Analytics:** Python • SQL • Excel • Tableau • Power BI • Looker Studio
+
+**Databases:** MySQL • Google BigQuery
+
+**Development:** Git • VS Code • DBT • Google Colab
+
+**Web:** HTML • CSS • JavaScript • React
+
+**Creative:** Photoshop • Final Cut Pro  
 
 ---
 
-I am excited to bring my unique blend of business acumen, technical skills, and passion for data to a dynamic team. Let's connect and explore how my expertise can contribute to your organization's success.
+## 🚀 Featured Projects
 
-<!-- ![Chirag's Github Stats](https://github-readme-stats.vercel.app/api?username=AryaChirag&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+### 📊 COVID-19 Data Analysis
+SQL • Tableau • Excel
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=AryaChirag&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AryaChirag's Github Stats"> -->
+- Data cleaning and transformation using SQL Server
+- Analysis of global infection, mortality and vaccination trends
+- Interactive Tableau dashboard
 
-</br>
+🔗 Repository: [COVID-19 Data Analysis](https://github.com/AryaChirag/covid19-data-analysis)
 
+### 🤖 Customer Segmentation
+Python • Machine Learning
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaChirag&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/AryaChirag/github-readme-stats)-->
+- Customer clustering using machine learning
+- Business recommendations based on customer behaviour
+
+🔗 Repository: [Customer Segmentation](repo_link)
+
+More analytics and machine learning projects will be added as I continue expanding my portfolio.
+
+---
+
+## 🎯 Career Focus
+
+I'm passionate about transforming data into actionable business insights through analytics, visualisation, and storytelling.
+
+Currently seeking opportunities in:
+
+- Data Analytics
+- Business Intelligence
+- Data Reporting & Visualisation
+- Product & Operations Analytics
+
+---
 
 ## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chiragarya/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:erchirag.arya@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://twitter.com/i_chirag_arya">
-    <img src="https://img.icons8.com/color/48/twitter.png" width="40"/>
+  <a href="https://www.kaggle.com/chiragarya1989">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://public.tableau.com/app/profile/chirag.arya4385">
-    <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://aryachirag.github.io/">
+    <img src="https://img.icons8.com/color/48/domain.png" width="45"/>
+  </a>
+  &nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/chiragarya/">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:erchirag.arya@gmail.com">Gmail</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/chiragarya1989">Kaggle</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/chirag.arya4385">Tableau</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aryachirag.github.io/">Portfolio</a>
+</p>
 
 <!-- Aaahhhhhh !! My contribution graph is getting eaten... 😶 -->
 <!-- <p> 
@@ -65,10 +123,8 @@ I am excited to bring my unique blend of business acumen, technical skills, and 
 
 ---
 
+<!-- <img src="https://komarev.com/ghpvc/?username=AryaChirag&label=Profile+Views&color=0e75b6&style=flat" /> -->
+
 <!-- addded on 3rd May 2021 -->
 
-## 📊 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AryaChirag&label=Profile%20Views&color=0e75b6&style=flat)
-
- <!-- - 💼 &nbsp; Developer by profession. -->
+<!-- - 💼 &nbsp; Developer by profession. -->
