@@ -56,7 +56,7 @@ Python • Machine Learning
 - Customer clustering using machine learning
 - Business recommendations based on customer behaviour
 
-🔗 Repository: [Customer Segmentation](repo_link)
+🔗 Repository: [Customer Segmentation](https://github.com/AryaChirag/Data-Analytics-Bike-Customer-Segmentation)
 
 More analytics and machine learning projects will be added as I continue expanding my portfolio.
 
