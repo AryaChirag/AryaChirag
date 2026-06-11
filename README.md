@@ -49,9 +49,7 @@ Python • SQL-style Analysis • Tableau
 - Designed an interactive Tableau dashboard for business insights and decision-making
 - Performed data cleaning, transformation, and aggregation for analysis
 
-🔗 Repository: <a href="https://github.com/AryaChirag/Tiller-by-Sumup" target="_blank" rel="noopener noreferrer">Tiller by SumUp</a>
-
-<!-- 🔗 Repository: [Tiller by SumUp](https://github.com/AryaChirag/Tiller-by-Sumup) -->
+🔗 Repository: [Tiller by SumUp](https://github.com/AryaChirag/Tiller-by-Sumup)
 
 ---
 
@@ -62,9 +60,7 @@ SQL • Tableau
 - Performed SQL-based data aggregation and exploratory analysis
 - Built an interactive Tableau dashboard for global pandemic visualization
 
-🔗 Repository: <a href="https://github.com/AryaChirag/covid19-data-analysis" target="_blank" rel="noopener noreferrer">Covid-19 Data analysis</a>
-
-<!-- 🔗 Repository: [COVID-19 Data Analysis](https://github.com/AryaChirag/covid19-data-analysis) -->
+🔗 Repository: [COVID-19 Data Analysis](https://github.com/AryaChirag/covid19-data-analysis)
 
 ---
 
@@ -75,9 +71,7 @@ Python • Machine Learning • Tableau
 - Identified high-value, loyal, and churn-risk customers for targeted marketing strategies
 - Supported business decision-making using behavioral analytics and visualization
 
-🔗 Repository: <a href="https://github.com/AryaChirag/Bike-Customer-Segmentation" target="_blank" rel="noopener noreferrer">Bike customer segmentation</a>
-
-<!-- 🔗 Repository: [Bike Customer Segmentation](https://github.com/AryaChirag/Bike-Customer-Segmentation) -->
+🔗 Repository: [Bike Customer Segmentation](https://github.com/AryaChirag/Bike-Customer-Segmentation)
 
 ---
 
