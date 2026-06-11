@@ -41,25 +41,41 @@ Operations & Data Analyst | SQL | Python | Tableau | Power BI
 
 ## 🚀 Featured Projects
 
-### 📊 COVID-19 Data Analysis
-SQL • Tableau • Excel
+### 📊 Tiller by SumUp – Restaurant Sales Analytics
+Python • SQL-style Analysis • Tableau
 
-- Data cleaning and transformation using SQL Server
-- Analysis of global infection, mortality and vaccination trends
-- Interactive Tableau dashboard
+- Built an end-to-end restaurant sales analytics pipeline using Python and Tableau
+- Analyzed transaction data to identify revenue trends, payment behavior, and product performance
+- Designed an interactive Tableau dashboard for business insights and decision-making
+- Performed data cleaning, transformation, and aggregation for analysis
+
+🔗 Repository: [Tiller by SumUp](https://github.com/AryaChirag/Tiller-by-Sumup)
+
+---
+
+### 📊 COVID-19 Data Analysis
+SQL • Tableau
+
+- Analyzed global COVID-19 data to understand infection, mortality, and vaccination trends
+- Performed SQL-based data aggregation and exploratory analysis
+- Built an interactive Tableau dashboard for global pandemic visualization
 
 🔗 Repository: [COVID-19 Data Analysis](https://github.com/AryaChirag/covid19-data-analysis)
 
-### 🤖 Bike-Customer-Segmentation
-Python • Machine Learning
+---
 
-- Customer clustering using machine learning
-- Business recommendations based on customer behaviour
+### 🤖 Bike Customer Segmentation
+Python • Machine Learning • Tableau
+
+- Developed an RFM-based customer segmentation model to classify customers into value-based groups
+- Identified high-value, loyal, and churn-risk customers for targeted marketing strategies
+- Supported business decision-making using behavioral analytics and visualization
 
 🔗 Repository: [Bike Customer Segmentation](https://github.com/AryaChirag/Bike-Customer-Segmentation)
 
-More analytics and machine learning projects will be added as I continue expanding my portfolio.
+---
 
+More analytics and machine learning projects will be added as I continue expanding my portfolio.
 ---
 
 ## 🎯 Career Focus
