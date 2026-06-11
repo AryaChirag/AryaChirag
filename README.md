@@ -122,7 +122,7 @@ Currently seeking opportunities in:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chiragarya/">LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:erchirag.arya@gmail.com">Gmail</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/chiragarya1989">Kaggle</a>
