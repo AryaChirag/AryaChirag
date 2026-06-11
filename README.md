@@ -50,13 +50,13 @@ SQL • Tableau • Excel
 
 🔗 Repository: [COVID-19 Data Analysis](https://github.com/AryaChirag/covid19-data-analysis)
 
-### 🤖 Customer Segmentation
+### 🤖 Bike-Customer-Segmentation
 Python • Machine Learning
 
 - Customer clustering using machine learning
 - Business recommendations based on customer behaviour
 
-🔗 Repository: [Customer Segmentation](https://github.com/AryaChirag/Bike-Customer-Segmentation)
+🔗 Repository: [Bike Customer Segmentation](https://github.com/AryaChirag/Bike-Customer-Segmentation)
 
 More analytics and machine learning projects will be added as I continue expanding my portfolio.
 
